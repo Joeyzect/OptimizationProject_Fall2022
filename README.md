@@ -5,4 +5,5 @@ The algorithm aims to pair users based on "like" scores to maximize global satis
 
 Contributors:
 > Joseph Lu
+
 > Daniel Chung
