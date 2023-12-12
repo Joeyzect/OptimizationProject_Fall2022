@@ -7,4 +7,4 @@ The algorithm aims to pair users based on "like" scores to maximize global satis
 \- Dating App User
 
 Contributors:
-> Joseph Lu <br /> Daniel Chung
+> Joseph Lu `Joeyzect` <br /> Daniel Chung `djaechung`
